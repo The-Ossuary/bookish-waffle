@@ -74,5 +74,5 @@ Faction wars create ongoing incentives for collaboration and competition.
 
 ## Contact
 
-Jarrod Rivera  
-Email: [your-email-here]
+Obesn  
+Email: the.ossuary.xyz@gmail.com
