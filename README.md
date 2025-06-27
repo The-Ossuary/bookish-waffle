@@ -72,5 +72,6 @@ Transform static NFTs into mutable relics shaped by player choices and personal 
 ## License
 
 Proprietary. Contact the creator for licensing or purchase inquiries.
-creator: Obsen
+
+Creator: Obsen
 the.ossuary.xyz@gmail.com
