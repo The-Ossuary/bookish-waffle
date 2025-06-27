@@ -1,121 +1,76 @@
 # The Ossuary
 
-### Mutable NFTs × AI Lore × Web3 Game IP
+The Ossuary is a dark, mythic Web3 platform for creating, evolving, and trading dynamic NFTs. Unlike static NFT marketplaces, Ossuary Relics evolve through player rituals, AI-generated lore, and user-submitted art, music, and writing. Each NFT is a living, growing, on-chain asset designed for replayability, community creativity, and trade.
 
-The Ossuary is a turn-key Web3 IP combining mutable NFTs, an AI ritual engine, and deep generative lore. Built for Ethereum-compatible chains using ERC-1155 standards, the system blends story-driven progression, smart contract-controlled mutations, and a tokenized player economy.
+## Concept
 
----
+Transform static NFTs into mutable relics shaped by player choices and personal artistic contributions. Ritual mechanics allow players to stake, mutate, and evolve NFTs, while AI generates unique narrative branches. User-generated art, music, and writing can be minted and embedded into relic evolution, making each asset a one-of-a-kind creation.
 
-##  Key Components
+## Features
 
-- **Smart Contracts**: ERC-1155 implementation with relic mutation logic.
-- **Ritual Engine**: Event-based system allowing narrative and visual evolution.
-- **$OSIEN Token Framework**: Stake-based rituals, token-gated features, and burn mechanics.
-- **Obsen AI System**: Generates lore trees, event triggers, and player-aligned outcomes.
-- **Lore Codex**: A 40K+ word narrative base with mutable outcomes.
-- **Faction & Trial System**: Community PvP logic with dynamic world evolution.
-- **Royalty Engine**: NFT lifecycle payouts and creator/partner splits.
-- **Marketplace Compatibility**: Designed for Magic Eden, OpenSea, and custom DEX.
+- Mutable NFTs: Relics evolve 3–5 times through rituals.
+- Ritual Engine: Stake, sacrifice, mutate, and transform relics.
+- AI-Generated Lore: Dynamic branching stories for each NFT.
+- User-Generated Content: Players upload art, music, and writing to mint as NFTs and integrate into relic evolution.
+- Faction Wars: Optional PvP battles with rarity rewards.
+- Creator Royalties: 10% royalties for artists on mutations and trades.
+- Marketplace Integration: Buy/sell evolved relics with enforced royalties.
+- Blockchain: Smart contracts on Polygon/Ethereum for low gas fees.
+- Obsen AI: Narrative engine with thousands of unique story branches.
 
----
+## Project Structure
 
- Financial Snapshot & Ask Summary
+/contracts
+  ERC1155 smart contracts
+  Ritual mutation logic
 
-###Valuation Justification
+/lore
+  Core lore bible
+  AI branching narrative specs
 
-| Component                         | Market Value Estimate |
-|----------------------------------|------------------------|
-| Smart Contracts & Ritual Engine  | $400K–$600K            |
-| Obsen AI Lore System             | $150K–$250K            |
-| Game Art Assets & Lore Codex     | $200K+                 |
-| Token + Economic Architecture    | $75K–$150K             |
-| Demo + Pitch Infrastructure      | $50K–$100K             |
+/scripts
+  Ritual engine backend scripts
+  Metadata updaters
 
-**Total Asset Value**: ~$1.1M–$1.3M
+/assets
+  Base relic images
+  Evolution stages
+  Example user-submitted art
+  Sample music assets
 
-###  Financial Projections
+/docs
+  Whitepaper
+  Setup instructions
 
-**Year 1**
-- Revenue: $250K–$480K
-- Users: 5K–10K
-- Revenue Sources: Minting, royalties (5%), early staking
+## Setup Instructions
 
-**Year 3**
-- Revenue: $2.5M–$4.2M
-- Users: 50K–100K
-- Added Sources: Staking, merch, premium relics
+1. Install dependencies:
 
----
+   npm install
 
-##  Term Sheet (Broker Insight)
+2. Compile and deploy smart contracts:
 
-### Upfront Ask
-- **$1.3M full IP sale**  
-- Includes all assets, rituals, lore engine, and rights
+   npx hardhat compile
+   npx hardhat deploy
 
-### Royalties
-- **8% of net revenue**, sliding to 6% above $5M/year
-- 7-year term (2025–2032)
+3. Run the ritual engine (backend):
 
-### Minimum Guarantee
-- $15K/month ($180K/year) minimum royalty
-- Total minimum over term: $1.26M
+   python scripts/run_ritual_engine.py
 
-### Milestone Bonus
-- $200K bonus if 50K users by Dec 31, 2026
+4. Start frontend (placeholder):
 
-### Equity-Like Kicker
-- 1% of net revenue if total gross exceeds $10M during term (cap: $500K)
+   npm run dev
 
-### Token Clause
-- 1% of all **primary OSIEN token** sales, paid quarterly
+## Usage
 
----
+- Mint base relic NFTs.
+- Upload your own art, music, or writing to create new NFTs.
+- Perform rituals to evolve NFTs.
+- Trade on the marketplace with built-in royalty splits.
+- Participate in Faction Wars to boost relic rarity.
 
-## Deliverables for Broker/Buyer
+## License
 
-- Smart Contracts (ERC-1155)
-- Full Ritual Engine + test logs
-- Tokenomics design + docs
-- Complete Lore Codex (Google Docs)
-- UI Wireframes + Gameplay Flow
-- Royalty System (term sheet, audit-ready)
-- One-Pager (PDF)
-- Pitch Deck (separate)
-- All game assets in downloadable package
-
----
-
-## Broker Guidance
-
-> **"This is a $1.3M IP with $2.71M in royalty revenue projected and $700K in bonuses. $65K/month net income through 2032. Fully de-risked, founder-aligned, and scale-ready."**
-
-Suggested Broker Targets:
-- DDM Games
-- Outlier Ventures
-- Mythical Games
-- Animoca Brands
-- Polygon Studios
-- Magic Eden
-
----
-
-##  Deployment / Build Notes
-
-- Solidity ^0.8.20
-- Compatible with Ethereum mainnet, Polygon, Avalanche, BNB
-- Contracts audited internally; external audit pending
-- Ritual Engine optimized for horizontal scaling (modular event handling)
-
----
-
-##  Contact
-
-**Creator:** Obsen  
-**Email:** the.ossuary.xyz@gmail.com  
-**Location:** Remote (Las Vegas)  
-**Demo & Docs:** Provided under NDA upon request
-
----
-
-**License:** All assets, code, and narrative are proprietary and protected under U.S. IP law. For licensing or acquisition inquiries, contact directly.
+Proprietary. Contact the creator for licensing or purchase inquiries.
+creator: Obsen
+the.ossuary.xyz@gmail.com
