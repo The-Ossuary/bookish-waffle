@@ -6,7 +6,7 @@ The Ossuary is a turn-key Web3 IP combining mutable NFTs, an AI ritual engine, a
 
 ---
 
-## 🔧 Key Components
+##  Key Components
 
 - **Smart Contracts**: ERC-1155 implementation with relic mutation logic.
 - **Ritual Engine**: Event-based system allowing narrative and visual evolution.
