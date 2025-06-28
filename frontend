@@ -148,3 +148,12 @@ export default function LoreVault() {
 
 
 `src/components/BookOfBone.tsx
+
+export default function BookOfBone() {
+  return (
+    <div className="bg-crypt-gray p-4 rounded-xl my-4">
+      <h2 className="text-2xl mb-2">Book of Bone</h2>
+      <p>Coming soon: Missions and rituals.</p>
+    </div>
+  );
+}
