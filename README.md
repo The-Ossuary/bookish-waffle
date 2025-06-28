@@ -121,3 +121,23 @@ Contract Deployment / VRF / IPFS Instructions
 6. Save your deployed contract address and ABI for frontend integration.
 
 7. Update frontend `src/constants.ts` with your contract address and ABI.
+
+
+# Ossuary Backend
+
+This is the backend API for The Ossuary project.
+
+---
+
+## 🚀 Quick Start
+
+```bash
+# Go to the backend folder
+cd backend
+
+# Install dependencies
+npm install
+
+# Start the backend server
+node app.js
+
