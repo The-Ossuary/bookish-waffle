@@ -110,3 +110,6 @@ export default function RitualAltar() {
     </div>
   );
 }
+
+
+`src/components/LoreVault.tsx
