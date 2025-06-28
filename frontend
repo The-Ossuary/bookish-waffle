@@ -1,1 +1,12 @@
-jkj
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background-color: #1b1b1b;
+  color: #f0f0e6;
+  font-family: -apple-system, BlinkMacSystemFont, serif;
+}
