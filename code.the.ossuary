@@ -51,4 +51,18 @@ app.listen(3001, () => {
 
 3. React Front-end (dApp)
 
+import React from 'react';
+
+function App() {
+  return (
+    <div>
+      <h1>The Ossuary</h1>
+      <p>Mint, evolve, and explore your Relics!</p>
+      {/* TODO: Add wallet connect, minting UI, ritual triggers, display user NFTs */}
+    </div>
+  );
+}
+
+export default App;
+
 
