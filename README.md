@@ -93,3 +93,5 @@ Deploy Instructions
 4. Update `src/constants.ts` with your contract addresses and ABI.
 5. Ensure you have the correct wallet/chain config.
 6. Deploy the build output to your chosen hosting provider. 
+
+Contract Deployment / VRF / IPFS Instructions 
