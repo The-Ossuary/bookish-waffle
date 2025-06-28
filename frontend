@@ -45,3 +45,6 @@ ossuary-frontend/src/constants.ts
 export const OSIEN_ADDRESS = "0xYourOSIENAddress";
 export const THE_OSSUARY_ADDRESS = "0xYourTheOssuaryAddress";
 export const THE_OSSUARY_ABI = []; // Paste your compiled ABI here
+
+src/App.tsx
+
