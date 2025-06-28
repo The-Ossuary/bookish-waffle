@@ -1,3 +1,4 @@
+markdown
 ossuary-frontend/src/index.css
 
 @tailwind base;
@@ -11,6 +12,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, serif;
 }
 
+markdown 
 ossuary-frontend/tailwind.config.js
 
 /** @type {import('tailwindcss').Config} */
@@ -31,6 +33,7 @@ export default {
   plugins: [],
 };
 
+markdown
 ossuary-frontend/vite.config.ts
 
 import { defineConfig } from "vite";
@@ -40,12 +43,14 @@ export default defineConfig({
   plugins: [react()],
 });
 
+markdown
 ossuary-frontend/src/constants.ts
 
 export const OSIEN_ADDRESS = "0xYourOSIENAddress";
 export const THE_OSSUARY_ADDRESS = "0xYourTheOssuaryAddress";
 export const THE_OSSUARY_ABI = []; // Paste your compiled ABI here
 
+markdown 
 src/App.tsx
 
 import { ConnectButton } from '@rainbow-me/rainbowkit';
@@ -69,6 +74,7 @@ function App() {
 export default App;
 
 
+markdown 
 src/components/RitualAltar.tsx`
 
 import { useState } from 'react';
@@ -112,6 +118,7 @@ export default function RitualAltar() {
 }
 
 
+markdown
 `src/components/LoreVault.tsx
 
 import { useAccount } from 'wagmi';
@@ -147,6 +154,7 @@ export default function LoreVault() {
 }
 
 
+markdown 
 `src/components/BookOfBone.tsx
 
 export default function BookOfBone() {
