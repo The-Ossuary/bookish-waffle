@@ -95,3 +95,29 @@ Deploy Instructions
 6. Deploy the build output to your chosen hosting provider. 
 
 Contract Deployment / VRF / IPFS Instructions 
+# Ossuary Smart Contract Deployment (Chainlink VRF & IPFS)
+
+1. Fund your Chainlink VRF subscription.
+2. Obtain your:
+   - subscriptionId
+   - keyHash
+   - VRFCoordinator address
+
+3. Update the constructor params in `contracts/TheOssuary.sol`:
+   constructor(
+     address vrfCoordinator,
+     uint64 subscriptionId,
+     bytes32 _keyHash,
+     address _multisig
+   )
+
+4. Pin your metadata JSON to IPFS (using Pinata, NFT.Storage, etc).
+   - Replace `ipfs://QmbasicCID/` in your contract with your new CID.
+
+5. Compile and deploy your contract using Hardhat:
+   npx hardhat compile
+   npx hardhat run scripts/deploy.js --network <network>
+
+6. Save your deployed contract address and ABI for frontend integration.
+
+7. Update frontend `src/constants.ts` with your contract address and ABI.
