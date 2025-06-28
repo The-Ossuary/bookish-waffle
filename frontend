@@ -48,3 +48,23 @@ export const THE_OSSUARY_ABI = []; // Paste your compiled ABI here
 
 src/App.tsx
 
+import { ConnectButton } from '@rainbow-me/rainbowkit';
+import RitualAltar from './components/RitualAltar';
+import LoreVault from './components/LoreVault';
+import BookOfBone from './components/BookOfBone';
+import './index.css';
+
+function App() {
+  return (
+    <div className="min-h-screen bg-osien-dark text-bone-white font-serif p-6">
+      <header className="text-4xl mb-6">The Ossuary</header>
+      <ConnectButton />
+      <RitualAltar />
+      <LoreVault />
+      <BookOfBone />
+    </div>
+  );
+}
+
+export default App;
+
