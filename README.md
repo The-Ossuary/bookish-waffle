@@ -188,9 +188,8 @@ We welcome contributions of all kinds—code, art, lore, bug reports, and ideas!
 
 ## Community & Contact
 
-- **Discord:** [your-discord-link]
-- **Twitter:** [your-twitter-link]
-- **Email:** your@email.com
+ 
+- **Email:** the.ossuary.xyz@gmail.com
 
 ---
 
