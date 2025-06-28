@@ -49,6 +49,6 @@ app.listen(3001, () => {
     console.log('Ritual engine running on http://localhost:3001');
 });
 
-
+3. React Front-end (dApp)
 
 
