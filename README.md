@@ -77,4 +77,19 @@ Faction wars create ongoing incentives for collaboration and competition.
 Obesn  
 Email: the.ossuary.xyz@gmail.com
 
-📄 Deploy Instructions 
+Deploy Instructions
+
+# Ossuary Frontend - Deploy Instructions
+
+1. Install dependencies:
+   npm install
+
+2. Start the local development server:
+   npm run dev
+
+3. Build for production (Vercel/Netlify):
+   npm run build
+
+4. Update `src/constants.ts` with your contract addresses and ABI.
+5. Ensure you have the correct wallet/chain config.
+6. Deploy the build output to your chosen hosting provider. 
