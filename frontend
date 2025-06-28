@@ -1,4 +1,4 @@
-
+ossuary-frontend/src/index.css
 
 @tailwind base;
 @tailwind components;
@@ -10,3 +10,4 @@ body {
   color: #f0f0e6;
   font-family: -apple-system, BlinkMacSystemFont, serif;
 }
+
