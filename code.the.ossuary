@@ -74,4 +74,5 @@ def generate_lore(prompt):
 if __name__ == "__main__":
     print(generate_lore("Describe the Relic's origin."))
 
+5. Project Structure (Recommended)
 
