@@ -141,3 +141,5 @@ npm install
 # Start the backend server
 node app.js
 
+You can call backend endpoints from your React app using fetch or axios.
+
