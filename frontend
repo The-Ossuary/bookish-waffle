@@ -70,3 +70,43 @@ export default App;
 
 
 src/components/RitualAltar.tsx`
+
+import { useState } from 'react';
+import { useAccount } from 'wagmi';
+import { ethers } from 'ethers';
+import { THE_OSSUARY_ADDRESS, THE_OSSUARY_ABI } from '../constants';
+
+export default function RitualAltar() {
+  const { address } = useAccount();
+  const [loading, setLoading] = useState(false);
+
+  const handleRitual = async () => {
+    try {
+      setLoading(true);
+      const provider = new ethers.BrowserProvider(window.ethereum);
+      const signer = await provider.getSigner();
+      const contract = new ethers.Contract(THE_OSSUARY_ADDRESS, THE_OSSUARY_ABI, signer);
+      const tx = await contract.performRitual("Bonechant", "Obsen", ethers.parseEther("0.1"), 1, address);
+      await tx.wait();
+      alert('Ritual complete!');
+    } catch (e) {
+      console.error(e);
+      alert('Ritual failed!');
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  return (
+    <div className="bg-crypt-gray p-4 rounded-xl my-4">
+      <h2 className="text-2xl mb-2">Ritual Altar</h2>
+      <button
+        className="bg-red-800 hover:bg-green-800 text-bone-white py-2 px-4 rounded"
+        onClick={handleRitual}
+        disabled={loading}
+      >
+        {loading ? 'Performing...' : 'Perform Ritual'}
+      </button>
+    </div>
+  );
+}
