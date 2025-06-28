@@ -145,3 +145,6 @@ export default function LoreVault() {
     </div>
   );
 }
+
+
+`src/components/BookOfBone.tsx
