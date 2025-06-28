@@ -155,4 +155,9 @@ fetch('http://localhost:3001/ritual', {
   .then(res => res.json())
   .then(data => console.log(data));
 
-example
+
+example. lorefragment
+
+fetch('http://localhost:3001/lore/1')
+  .then(res => res.json())
+  .then(data => console.log(data));
