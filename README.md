@@ -141,5 +141,18 @@ npm install
 # Start the backend server
 node app.js
 
+
+
 You can call backend endpoints from your React app using fetch or axios.
 
+example.ritual
+
+fetch('http://localhost:3001/ritual', {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify({ tokenId: 1, ritualData: { type: 'Bonechant' } }),
+})
+  .then(res => res.json())
+  .then(data => console.log(data));
+
+example
