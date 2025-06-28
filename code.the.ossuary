@@ -76,3 +76,19 @@ if __name__ == "__main__":
 
 5. Project Structure (Recommended)
 
+bookish-waffle/
+├── contracts/
+│   └── OssuaryRelics.sol
+├── backend/
+│   └── app.js
+├── frontend/
+│   ├── package.json
+│   └── src/
+│       └── App.js
+├── ai/
+│   └── lore_generator.py  # (optional)
+├── README.md
+├── .gitignore
+├── package.json
+├── hardhat.config.js      # (for Solidity dev)
+└── ... (other configs)
