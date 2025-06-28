@@ -66,3 +66,12 @@ function App() {
 export default App;
 
 4. Python (Optional, for AI Lore Generation)
+
+def generate_lore(prompt):
+    # TODO: Integrate with OpenAI API or local model
+    return f"Lore generated for: {prompt}"
+
+if __name__ == "__main__":
+    print(generate_lore("Describe the Relic's origin."))
+
+
