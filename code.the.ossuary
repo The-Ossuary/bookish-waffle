@@ -1,1 +1,32 @@
 1. Solidity: ERC-1155 Smart Contract (NFTs)
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+import "@openzeppelin/contracts/token/ERC1155/ERC1155.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
+
+contract OssuaryRelics is ERC1155, Ownable {
+    string public name = "Ossuary Relics";
+    string public symbol = "OSSRY";
+    uint256 public nextTokenId = 1;
+    mapping(uint256 => string) public tokenURIs;
+    mapping(uint256 => address) public creators;
+
+    constructor() ERC1155("") {}
+
+    function mint(string memory _uri, uint256 _amount) external {
+        uint256 tokenId = nextTokenId++;
+        _mint(msg.sender, tokenId, _amount, "");
+        tokenURIs[tokenId] = _uri;
+        creators[tokenId] = msg.sender;
+    }
+
+    function setTokenURI(uint256 tokenId, string memory _uri) external onlyOwner {
+        tokenURIs[tokenId] = _uri;
+    }
+
+    function uri(uint256 tokenId) public view override returns (string memory) {
+        return tokenURIs[tokenId];
+    }
+}
+
