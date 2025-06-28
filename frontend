@@ -113,3 +113,35 @@ export default function RitualAltar() {
 
 
 `src/components/LoreVault.tsx
+
+import { useAccount } from 'wagmi';
+import { useEffect, useState } from 'react';
+import { ethers } from 'ethers';
+import { THE_OSSUARY_ADDRESS, THE_OSSUARY_ABI } from '../constants';
+
+export default function LoreVault() {
+  const { address } = useAccount();
+  const [fragments, setFragments] = useState<number[]>([]);
+
+  useEffect(() => {
+    const fetchLore = async () => {
+      if (!address) return;
+      const provider = new ethers.BrowserProvider(window.ethereum);
+      const contract = new ethers.Contract(THE_OSSUARY_ADDRESS, THE_OSSUARY_ABI, provider);
+      const ids = await contract.playerLoreFragments(address);
+      setFragments(ids.map((id: bigint) => Number(id)));
+    };
+    fetchLore();
+  }, [address]);
+
+  return (
+    <div className="bg-crypt-gray p-4 rounded-xl my-4">
+      <h2 className="text-2xl mb-2">Lore Vault</h2>
+      <ul>
+        {fragments.map(id => (
+          <li key={id}>Fragment ID: {id}</li>
+        ))}
+      </ul>
+    </div>
+  );
+}
