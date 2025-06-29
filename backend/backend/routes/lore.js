@@ -1,5 +1,3 @@
-// File: backend/routes/lore.js
-
 const express = require('express');
 const { getLore, getRandomLore } = require('../controllers/loreController');
 
