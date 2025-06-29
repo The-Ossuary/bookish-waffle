@@ -1,5 +1,4 @@
 
-
 ---
 
 # The Ossuary
@@ -11,13 +10,13 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Live Demo & Screenshots](#live-demo--screenshots)
-- [Quickstart](#quickstart)
+- [Status & Opportunity](#status--opportunity)
+- [Screenshots](#screenshots)
+- [Quickstart (Codebase)](#quickstart-codebase)
 - [Tech Stack](#tech-stack)
-- [Deployed Contracts & Links](#deployed-contracts--links)
+- [What's Included](#whats-included)
 - [API Usage Examples](#api-usage-examples)
 - [Contributing](#contributing)
-- [Acquisition Opportunity](#acquisition-opportunity)
 - [Community & Contact](#community--contact)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -30,20 +29,30 @@ The Ossuary blends art, mythology, and blockchain into a living, decentralized l
 
 ---
 
-## Live Demo & Screenshots
+## Status & Opportunity
 
-<!--
-- **Live Demo:** [https://your-ossuary-demo-link.com](https://your-ossuary-demo-link.com)
--->
+🚧 **The Ossuary is not yet live or deployed to mainnet.**  
+However, all intellectual property—including code, lore, and design—is complete and available for:
 
-*Live demo coming soon! Interested in helping build or deploy it? [Open an issue](https://github.com/The-Ossuary/bookish-waffle/issues) or [contact us](mailto:the.ossuary.xyz@gmail.com).*
+- **Acquisition** (buy the full IP, codebase, lore)
+- **Partnership** (collaborate on launch, marketing, or integration)
+- **Further Development** (devs wanted for deployment and demo!)
 
-- ![Screenshot: Ritual Interface](assets/screenshots/ritual.png)
-- ![Screenshot: Minted Relic](assets/screenshots/relic.png)
+**No contracts are currently deployed or live.**  
+**No frontend is live.**  
+This repo contains all source code, assets, and documentation you need to launch, extend, or integrate The Ossuary.
 
 ---
 
-## Quickstart
+## Screenshots
+
+*Sample UI and NFT artwork coming soon. Artists and designers welcome!*
+
+---
+
+## Quickstart (Codebase)
+
+You can run and experiment with the code locally. To get started:
 
 ```bash
 git clone https://github.com/The-Ossuary/bookish-waffle.git
@@ -54,7 +63,7 @@ cd contracts
 npm install
 npx hardhat compile
 
-# Deploy contracts (customize for your network)
+# (Optional) Deploy to a testnet:
 npx hardhat run scripts/deploy.js --network mumbai
 
 # Frontend
@@ -84,12 +93,16 @@ node app.js
 
 ---
 
-## Deployed Contracts & Links
+## What's Included
 
-- **Frontend:** *Coming soon*
-- **Main Ritual Engine Contract:** [`0xYourContractAddress`](https://polygonscan.com/address/0xYourContractAddress)
-- **$OSIEN Token:** [`0xYourTokenAddress`](https://polygonscan.com/address/0xYourTokenAddress)
-- **Marketplace:** *Coming soon*
+- All smart contracts and deployment scripts
+- Full frontend and backend code
+- Original lore, worldbuilding, and documentation
+- Brand and naming assets
+- Community channels (Discord, Twitter, etc. if desired)
+- Full IP rights and transferability
+
+*Visual art assets are not yet included. Artists interested in collaborating or contributing are encouraged to reach out!*
 
 ---
 
@@ -113,46 +126,25 @@ fetch('/lore/1')
 
 ## Contributing
 
-We welcome all kinds of contributions—code, art, music, writing, lore, bug reports, and ideas!
+We welcome all contributions—code, art, lore, music, ideas, and partnerships!
 
-- Fork the repo, create a branch, and open a pull request.
-- Artists and writers can submit via issue or PR to `/assets/art/` or `/lore/`.
-- See [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
-- Join our [Discord](https://discord.gg/your-discord-link) to connect with the team!
+- If you are not the repo owner: [Fork this repository](https://github.com/The-Ossuary/bookish-waffle/fork) to your own account, then submit a pull request.
+- If you are the owner: Create a new branch for your changes, or test the fork process with a different GitHub account.
 
----
-
-## Acquisition Opportunity
-
-**The Ossuary IP—including code, art, lore, and branding—is available for acquisition, licensing, or partnership.**
-
-### What’s Included:
-
-- Smart contracts (Solidity/Hardhat)
-- Frontend and backend source code
-- Original lore, art, and brand assets
-- Community channels (Discord, Twitter, etc., if desired)
-- Full IP and deploy rights
-
-### Why Acquire?
-
-- Unique, immersive web3 IP ready for launch or integration
-- Modular, extensible codebase and lore
-- Designed for collaborative, creator-driven economies
-
-**For offers, introductions, or more information contact:**  
-Obsen, God of Obscenity  
-the.ossuary.xyz@gmail.com  
-[Twitter: @TheOssuaryCrypt](https://twitter.com/TheOssuaryCrypt)  
-[Discord Server](https://discord.gg/your-discord-link)
+See the full contributing guide here:  
+[CONTRIBUTING.md](https://github.com/The-Ossuary/bookish-waffle/blob/main/Contributing.md)
 
 ---
 
 ## Community & Contact
 
-- **Twitter:** [@TheOssuaryCrypt](https://twitter.com/TheOssuaryCrypt)
 - **Email:** the.ossuary.xyz@gmail.com
+- **Twitter:** [@TheOssuaryCrypt](https://twitter.com/TheOssuaryCrypt)
 - **Discord:** [https://discord.gg/your-discord-link](https://discord.gg/your-discord-link)
+
+For acquisition, licensing, or partnership inquiries, contact:  
+Obsen, God of Obscenity  
+the.ossuary.xyz@gmail.com
 
 ---
 
@@ -172,3 +164,17 @@ Thanks to all early contributors, artists, and lore creators!
 > *“The Ossuary is a world that feeds on sacrifice, rewards creativity, and punishes complacency. Every Relic is unique. Every player leaves a scar. The Ritual is forever.”*
 
 ---
+
+**Replace placeholder links and addresses before publishing.  
+Your project is IP-complete and ready for handoff, extension, or partnership.  
+If you want further tweaks, just ask!**
+
+---
+
+**Corrections Applied:**
+- Fork step clarified for repo owners (owners cannot fork their own repo).
+- Art section updated to clearly state no art is included yet.
+- Screenshots section does not show missing images.
+- Added direct and working link to your [CONTRIBUTING.md](https://github.com/The-Ossuary/bookish-waffle/blob/main/Contributing.md).
+- Language and details aligned with your actual Contributing.md and repo status.
+
