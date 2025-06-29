@@ -1,11 +1,27 @@
 
 ---
 
+## License & Intellectual Property
+
+All code, lore, documentation, and creative materials in this repository are the exclusive intellectual property of The-Ossuary.
+
+**Acquisition Opportunity:**  
+Upon completion of sale and transfer, all rights—including copyright and any associated trademarks—will be transferred exclusively to the buyer.  
+No other rights are granted. Use, reproduction, or distribution is prohibited without written permission from the owner.
+
+For sale inquiries or to request access for review, contact: the.ossuary.xyz@gmail.com
+
+See [Licence](code/Licence.md) for full terms.
+
+---
+
+If you want a **full README example** with this link, here it is:
+
+---
+
 # The Ossuary
 
 *The Ossuary is a collaborative, occult-inspired NFT ritual platform. Perform on-chain rituals, create and mutate NFTs, and shape the living lore of a crypt-city built on sacrifice and creativity.*
-
----
 
 ## Table of Contents
 
@@ -147,7 +163,7 @@ No other rights are granted. Use, reproduction, or distribution is prohibited wi
 
 For sale inquiries or to request access for review, contact: the.ossuary.xyz@gmail.com
 
-See [License](code/License) for full terms.
+See [Licence](code/Licence.md) for full terms.
 
 ---
 
@@ -174,9 +190,4 @@ Thanks to all early contributors, artists, and lore creators!
 
 ---
 
-**Replace placeholder links and addresses before publishing.  
-If you want further tweaks, just ask!**
-
----
-
-Let me know if you want this even more condensed, or want any other changes!
+**Let me know if you want this condensed, further customized, or if you need a different file name or location!**
