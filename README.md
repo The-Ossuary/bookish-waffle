@@ -1,6 +1,6 @@
 ---
 
-# 🦴 The Ossuary
+# The Ossuary
 
 *The Ossuary is a collaborative, occult-inspired NFT ritual platform. Perform on-chain rituals, create and mutate NFTs, and shape the living lore of a crypt-city built on sacrifice and creativity.*
 
