@@ -197,7 +197,7 @@ We welcome contributions of all kinds—code, art, lore, bug reports, and ideas!
 Not yet. Use at your own risk and review all contracts before using on mainnet.
 
 **Can I create my own rituals?**  
-Yes! See the Contributing section or join our Discord.
+Yes! See the Contributing section.
 
 ---
 
