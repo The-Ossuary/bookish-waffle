@@ -12,7 +12,7 @@
 - [Project Overview](#project-overview)
 - [Status & Opportunity](#status--opportunity)
 - [Screenshots](#screenshots)
-- [Quickstart (Codebase)](#quickstart-codebase)
+- [Quickstart](#quickstart)
 - [Tech Stack](#tech-stack)
 - [What's Included](#whats-included)
 - [API Usage Examples](#api-usage-examples)
@@ -31,7 +31,8 @@ The Ossuary blends art, mythology, and blockchain into a living, decentralized l
 
 ## Status & Opportunity
 
-🚧 **The Ossuary is not yet live or deployed to mainnet.**  
+🚧 **The Ossuary is not yet live or deployed to mainnet.**
+
 However, all intellectual property—including code, lore, and design—is complete and available for:
 
 - **Acquisition** (buy the full IP, codebase, lore)
@@ -50,7 +51,7 @@ This repo contains all source code, assets, and documentation you need to launch
 
 ---
 
-## Quickstart (Codebase)
+## Quickstart
 
 You can run and experiment with the code locally. To get started:
 
@@ -146,7 +147,7 @@ No other rights are granted. Use, reproduction, or distribution is prohibited wi
 
 For sale inquiries or to request access for review, contact: the.ossuary.xyz@gmail.com
 
-See [License](https://github.com/The-Ossuary/bookish-waffle/blob/main/code/License) for full terms.
+See [License](code/License) for full terms.
 
 ---
 
@@ -173,3 +174,9 @@ Thanks to all early contributors, artists, and lore creators!
 
 ---
 
+**Replace placeholder links and addresses before publishing.  
+If you want further tweaks, just ask!**
+
+---
+
+Let me know if you want this even more condensed, or want any other changes!
