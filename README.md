@@ -2,7 +2,7 @@
 
 # The Ossuary
 
-**The Ossuary** is an experimental Web3 game—a collaborative, occult-inspired ritual platform where every on-chain action is a ritual that creates, mutates, or destroys NFTs. Shape the evolving lore of a crypt-city through art, sacrifice, and creativity using smart contracts and $OSIEN tokens.
+The Ossuary is a Web3 game of collaborative occult ritual and evolving NFTs. Every on-chain action is a “ritual” that creates, mutates, or destroys NFTs, shaping the living lore of a crypt-city. Players interact using smart contracts, $OSIEN tokens, and on-chain randomness to co-author art, story, and strategy.
 
 ---
 
@@ -24,13 +24,13 @@
 
 ## Project Overview
 
-The Ossuary is a fully on-chain Web3 game fusing art, mythology, and blockchain. Players perform smart contract-powered rituals using $OSIEN tokens and Chainlink VRF randomness to summon unique Relic NFTs, unlock hidden lore, and support real artists.
+The Ossuary is a fully on-chain, Ethereum-based game where:
 
-- **Web3 Ritual Gameplay:** Every action is on-chain and changes the game world.
-- **Mutable NFTs:** Items and lore fragments can be created, mutated, and destroyed.
-- **Community-Driven Lore:** Player choices expand the crypt-city’s story.
-- **True Ownership:** All assets exist as NFTs and metadata on-chain and IPFS.
-- **Artist Economy:** The $OSIEN token rewards artists and active players.
+- **Every action is a ritual:** Gameplay is driven by smart contracts creating, mutating, or destroying NFTs.
+- **NFTs are dynamic:** Items and lore fragments evolve with player interactions.
+- **Lore is community-driven:** Players’ choices expand and reshape the crypt-city’s story.
+- **Ownership is true and permanent:** All assets are NFTs stored on-chain and in IPFS.
+- **Artists and players are rewarded:** The $OSIEN token powers a creative economy.
 
 ---
 
@@ -44,8 +44,8 @@ All intellectual property—including code, lore, and design—is complete and a
 - **Partnership:** Collaborate on launch, marketing, or integration.
 - **Further Development:** Developers wanted for deployment and demo!
 
-No contracts or frontend are currently live.  
-This repo contains all source code, assets, and documentation you need.
+No smart contracts or frontend are currently live.  
+This repo contains all source code, assets, and documentation.
 
 ---
 
@@ -57,7 +57,7 @@ This repo contains all source code, assets, and documentation you need.
 
 ## Quickstart
 
-Clone and run the code locally:
+To run locally:
 
 ```bash
 git clone https://github.com/The-Ossuary/bookish-waffle.git
@@ -136,8 +136,7 @@ We welcome all contributions—code, art, lore, music, ideas, and partnerships!
 
 - Fork this repository and submit a pull request, or create a new branch for your changes.
 
-See the full contributing guide here:  
-[CONTRIBUTING.md](https://github.com/The-Ossuary/bookish-waffle/blob/main/Contributing.md)
+See: [CONTRIBUTING.md](https://github.com/The-Ossuary/bookish-waffle/blob/main/Contributing.md)
 
 ---
 
