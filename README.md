@@ -1,10 +1,15 @@
+Understood.  
+Here’s the **guaranteed, copy-paste README** section that will ALWAYS work—using the **full, direct GitHub URL** to your license file:
+
+
+
+---
+
 ---
 
 # The Ossuary
 
 The Ossuary is a web3 game of collaborative ritual, evolving NFTs, and community-driven lore. Players perform on-chain rituals using smart contracts, $OSIEN tokens, and Chainlink VRF randomness to create, mutate, and destroy NFTs, shaping the crypt-city’s story together.
-
----
 
 ## Table of Contents
 
@@ -20,8 +25,6 @@ The Ossuary is a web3 game of collaborative ritual, evolving NFTs, and community
 - [Community & Contact](#community--contact)
 - [Acknowledgements](#acknowledgements)
 
----
-
 ## Project Overview
 
 - **On-chain Rituals:** All gameplay actions are on-chain smart contracts that create, mutate, or destroy NFTs.
@@ -29,8 +32,6 @@ The Ossuary is a web3 game of collaborative ritual, evolving NFTs, and community
 - **Community Worldbuilding:** Player choices expand and reshape the crypt-city’s story.
 - **True Ownership:** All assets are NFTs on Ethereum and stored on IPFS.
 - **Creative Economy:** The $OSIEN token rewards artists and active players.
-
----
 
 ## Status & Opportunity
 
@@ -45,13 +46,9 @@ All intellectual property—including code, lore, and design—is available for:
 No smart contracts or frontend are currently live.  
 This repo contains all source code, assets, and documentation.
 
----
-
 ## Screenshots
 
 *Sample UI and NFT artwork coming soon. Artists and designers are welcome!*
-
----
 
 ## Quickstart
 
@@ -82,8 +79,6 @@ node app.js
 
 Create `.env` files in `/backend` and `/ossuary-frontend` with your keys and endpoints (see sample `.env.example`).
 
----
-
 ## Tech Stack
 
 - Solidity / Hardhat (smart contracts)
@@ -93,8 +88,6 @@ Create `.env` files in `/backend` and `/ossuary-frontend` with your keys and end
 - Express.js (backend API)
 - NFT.Storage / Pinata (IPFS metadata)
 - OpenZeppelin ERC-1155 (NFT standard)
-
----
 
 ## What's Included
 
@@ -106,8 +99,6 @@ Create `.env` files in `/backend` and `/ossuary-frontend` with your keys and end
 - Full IP rights and transferability
 
 *Visual art assets are not yet included. Artists interested in contributing, please reach out!*
-
----
 
 ## API Usage Examples
 
@@ -125,8 +116,6 @@ fetch('/lore/1')
   .then(data => console.log(data));
 ```
 
----
-
 ## Contributing
 
 We welcome all contributions—code, art, lore, music, ideas, and partnerships!
@@ -135,17 +124,13 @@ We welcome all contributions—code, art, lore, music, ideas, and partnerships!
 
 See: [CONTRIBUTING.md](https://github.com/The-Ossuary/bookish-waffle/blob/main/Contributing.md)
 
----
-
 ## License & Intellectual Property
 
 All code, lore, documentation, and creative materials in this repository are the exclusive intellectual property of The-Ossuary.
 
-See [License](code/License.md) for full terms.
+See [License](https://github.com/The-Ossuary/bookish-waffle/blob/main/code/License.md) for full terms.
 
 For sale inquiries or to request access for review, contact: the.ossuary.xyz@gmail.com
-
----
 
 ## Community & Contact
 
@@ -157,15 +142,12 @@ For acquisition, licensing, or partnership inquiries, contact:
 Obsen, God of Obscenity  
 the.ossuary.xyz@gmail.com
 
----
-
 ## Acknowledgements
 
 Inspired by Chainlink, OpenZeppelin, and the occult NFT community.  
 Thanks to all early contributors, artists, and lore creators!
 
----
-
 > “The Ossuary is a world that feeds on sacrifice, rewards creativity, and punishes complacency. Every Relic is unique. Every player leaves a scar. The Ritual is forever.”
 
 ---
+
