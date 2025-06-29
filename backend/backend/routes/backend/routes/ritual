@@ -1,4 +1,4 @@
-// File: backend/routes/ritual.js
+
 
 const express = require('express');
 const { performRitual } = require('../controllers/ritualController');
