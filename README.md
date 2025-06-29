@@ -1,7 +1,6 @@
 
 
----
-
+```markdown
 # The Ossuary
 
 *The Ossuary is a collaborative, occult-inspired NFT ritual platform. Perform on-chain rituals, create and mutate NFTs, and shape the living lore of a crypt-city built on sacrifice and creativity.*
@@ -32,7 +31,12 @@ The Ossuary blends art, mythology, and blockchain into a living, decentralized l
 
 ## Live Demo & Screenshots
 
+<!--
 - **Live Demo:** [https://your-ossuary-demo-link.com](https://your-ossuary-demo-link.com)
+-->
+
+*Live demo coming soon! Interested in helping build or deploy it? [Open an issue](https://github.com/The-Ossuary/bookish-waffle/issues) or [contact us](mailto:the.ossuary.xyz@gmail.com).*
+
 - ![Screenshot: Ritual Interface](assets/screenshots/ritual.png)
 - ![Screenshot: Minted Relic](assets/screenshots/relic.png)
 
@@ -81,7 +85,7 @@ node app.js
 
 ## Deployed Contracts & Links
 
-- **Frontend:** [https://your-ossuary-demo-link.com](https://your-ossuary-demo-link.com)
+- **Frontend:** *Coming soon*
 - **Main Ritual Engine Contract:** [`0xYourContractAddress`](https://polygonscan.com/address/0xYourContractAddress)
 - **$OSIEN Token:** [`0xYourTokenAddress`](https://polygonscan.com/address/0xYourTokenAddress)
 - **Marketplace:** [OpenSea Collection](https://opensea.io/collection/ossuary)
@@ -165,5 +169,5 @@ Thanks to all early contributors, artists, and lore creators!
 ---
 
 > *“The Ossuary is a world that feeds on sacrifice, rewards creativity, and punishes complacency. Every Relic is unique. Every player leaves a scar. The Ritual is forever.”*
+```
 
----
