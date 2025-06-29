@@ -1,76 +1,106 @@
 
+
 ---
 
 # Contributing to The Ossuary
 
-Welcome to The Ossuary—where code, art, and story intertwine.  
-This is a collaborative, occult-inspired NFT ritual platform. Developers, artists, writers, and visionaries are all invited!
+Welcome, crypt-dweller!  
+The Ossuary is a collaborative, occult-inspired NFT ritual project. We thrive on community—code, lore, art, and ideas are all welcome. Whether you want to fix a bug, write new lore, or help shape the platform, you’re in the right place.
 
 ---
 
 ## How to Contribute
 
-1. **Fork** this repository and create your branch from `main`.
-2. **Make your changes** (see the types of contributions below).
-3. **Commit and push** your branch.
-4. **Open a Pull Request (PR)** with a clear description of what you’ve done.
-5. **Discuss & revise** as needed after feedback from maintainers.
+**1. Fork this repository**  
+[Click here to fork.](https://github.com/The-Ossuary/bookish-waffle/fork)
+
+**2. Clone your fork and create a branch**
+```bash
+git clone https://github.com/<your-username>/bookish-waffle.git
+cd bookish-waffle
+git checkout -b your-feature-name
+```
+
+**3. Make your changes**  
+- Code: Update files in `/contracts`, `/ossuary-frontend`, or `/backend`
+- Lore: Add or edit lore in `/lore/`
+- Art: Add new art in `/assets/art/` (see [Art Guidelines](#art-guidelines))
+- Docs: Improve documentation anywhere!
+
+**4. Commit and push**
+```bash
+git add .
+git commit -m "Describe your change"
+git push origin your-feature-name
+```
+
+**5. Open a Pull Request**  
+[Create a pull request here.](https://github.com/The-Ossuary/bookish-waffle/pulls)  
+Describe your changes and why they improve The Ossuary.
+
+**6. Wait for review & join the discussion!**  
+We’ll review your submission, discuss, and merge if it fits.
 
 ---
 
-## What Can You Contribute?
+## Contribution Types
 
-- **Smart Contracts:** Solidity improvements, bug fixes, audits, new ritual logic.
-- **Frontend:** UI features, wallet integrations, bug fixes, accessibility.
-- **Backend/API:** New endpoints, lore/ritual automation, optimizations.
-- **Art & Design:** Visuals, relic overlays, backgrounds, UI assets (add to `/assets/art/`).
-- **Lore & Writing:** Worldbuilding, new gods/factions, relic stories, rituals (add to `/lore/`).
-- **Music & Sound:** Ritual soundscapes, ambient tracks, effects (add to `/assets/music/`).
-- **Docs & Tutorials:** Setup guides, dev walkthroughs, user how-tos.
+- **Code**: Contracts (Solidity), Frontend (React), Backend (Node.js/Express)
+- **Lore**: New stories, worldbuilding, or edits to `/lore/`
+- **Art**: Ritual icons, relics, UI mockups, etc. (no skulls required!)
+- **Ideas**: Propose features or lore in [Discussions](https://github.com/The-Ossuary/bookish-waffle/discussions) or open an issue
+- **Docs**: Improve guides, README, or this file
 
 ---
 
-## Guidelines
+## Art Guidelines
 
-- **Write clear, well-commented code** and follow existing conventions.
-- **Art/lore/music must be original** (your own work).
-- **Describe your additions** in your pull request (e.g., “Added new Relic: The Bone Chalice”).
-- **Respect the tone**: surreal, occult, mysterious, and collaborative.
-- **Add tests where possible** for code changes.
-
----
-
-## Submitting Art, Lore, or Music
-
-- Place images in `/assets/art/`, audio in `/assets/music/`, and new lore in `/lore/`.
-- Include your pseudonym or artist handle for credit.
-- All creative submissions must be original—no plagiarism.
+- Dark, occult, and mysterious themes are encouraged
+- No skulls required—think relics, crystals, runes, shadows, ancient scripts, etc.
+- Acceptable formats: PNG, JPG, SVG (48px–1024px)
+- Include a short description or title for your asset
 
 ---
 
-## Community & Support
+## Lore Guidelines
 
-- Open an [Issue](https://github.com/The-Ossuary/bookish-waffle/issues) for bugs, feature requests, or lore ideas.
-- Use [Discussions](https://github.com/The-Ossuary/bookish-waffle/discussions) for open-ended or creative dialogue.
-- Join our [Discord](https://discord.gg/your-discord-link) or reach out on [Twitter](https://twitter.com/TheOssuaryCrypt) for real-time help and collaboration.
-
----
-
-## Code of Conduct
-
-- Be respectful, inclusive, and constructive.
-- No hate speech, harassment, or intolerance.
-- The Ossuary rewards creativity and collaboration.
+- Submit new fragments as `.md` files in `/lore/`
+- Keep it weird, mysterious, and in-universe
+- Short or long is fine—every fragment helps build the crypt
 
 ---
 
-## Credits & Royalties
+## Code Guidelines
 
-- All contributors are credited by handle or pseudonym.
-- Revenue share and royalties for lore, art, or music will be handled transparently—see project docs or ask in Discord for details.
+- Follow existing code style and structure
+- Test locally before submitting
+- Add comments for complex logic or rituals!
+- If adding dependencies, update `package.json` or `hardhat.config.js` as needed
+
+---
+
+## Questions? Ideas?
+
+- [Open an issue](https://github.com/The-Ossuary/bookish-waffle/issues)
+- [Start a discussion](https://github.com/The-Ossuary/bookish-waffle/discussions)
+- Or reach out on [Discord](https://discord.gg/your-discord-link) or [Twitter](https://twitter.com/TheOssuaryCrypt)
 
 ---
 
-**You are the ritual. Welcome to The Ossuary.**
+## License
+
+By contributing, you agree your work will be released under the [MIT License](https://github.com/The-Ossuary/bookish-waffle/blob/main/LICENSE).
 
 ---
+
+**Full contributing guide:**  
+[CONTRIBUTING.md](https://github.com/The-Ossuary/bookish-waffle/blob/main/Contributing.md)
+
+---
+
+Thank you for helping build The Ossuary!  
+Every relic, line, and word shapes the crypt.
+
+---
+
+Let me know if you want more detail, or a section for code of conduct, or a template for art/lore submissions!
