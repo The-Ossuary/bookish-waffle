@@ -2,7 +2,7 @@
 
 # The Ossuary
 
-The Ossuary is a Web3 game of collaborative occult ritual and evolving NFTs. Every on-chain action is a “ritual” that creates, mutates, or destroys NFTs, shaping the living lore of a crypt-city. Players interact using smart contracts, $OSIEN tokens, and on-chain randomness to co-author art, story, and strategy.
+The Ossuary is a Web3 game of rituals, evolving NFTs, and collaborative storytelling. Players use smart contracts, $OSIEN tokens, and on-chain randomness to co-create, mutate, and destroy NFTs—shaping the crypt-city’s lore together.
 
 ---
 
@@ -24,27 +24,25 @@ The Ossuary is a Web3 game of collaborative occult ritual and evolving NFTs. Eve
 
 ## Project Overview
 
-The Ossuary is a fully on-chain, Ethereum-based game where:
-
-- **Every action is a ritual:** Gameplay is driven by smart contracts creating, mutating, or destroying NFTs.
-- **NFTs are dynamic:** Items and lore fragments evolve with player interactions.
-- **Lore is community-driven:** Players’ choices expand and reshape the crypt-city’s story.
-- **Ownership is true and permanent:** All assets are NFTs stored on-chain and in IPFS.
-- **Artists and players are rewarded:** The $OSIEN token powers a creative economy.
+- **On-chain rituals:** Gameplay is driven by smart contracts that create, mutate, or destroy NFTs.
+- **Dynamic NFTs:** All items and lore fragments evolve with player actions.
+- **Community worldbuilding:** Player choices expand and reshape the crypt-city’s story.
+- **True ownership:** All assets are NFTs on Ethereum and stored in IPFS.
+- **Creative economy:** The $OSIEN token rewards artists and participants.
 
 ---
 
 ## Status & Opportunity
 
-🚧 **The Ossuary is not yet live or deployed to mainnet.**
+🚧 The Ossuary is not yet live or deployed to mainnet.
 
 All intellectual property—including code, lore, and design—is complete and available for:
 
-- **Acquisition:** Buy the full IP, codebase, and lore.
-- **Partnership:** Collaborate on launch, marketing, or integration.
-- **Further Development:** Developers wanted for deployment and demo!
+- Acquisition: Buy the full IP, codebase, and lore.
+- Partnership: Collaborate on launch, marketing, or integration.
+- Further Development: Developers wanted for deployment and demo!
 
-No smart contracts or frontend are currently live.  
+No contracts or frontend are currently live.  
 This repo contains all source code, assets, and documentation.
 
 ---
@@ -82,8 +80,7 @@ npm install
 node app.js
 ```
 
-- **Environment:**  
-  Create `.env` files in `/backend` and `/ossuary-frontend` with your keys and endpoints (see sample `.env.example`).
+- Create `.env` files in `/backend` and `/ossuary-frontend` with your keys and endpoints (see sample `.env.example`).
 
 ---
 
@@ -144,13 +141,9 @@ See: [CONTRIBUTING.md](https://github.com/The-Ossuary/bookish-waffle/blob/main/C
 
 All code, lore, documentation, and creative materials in this repository are the exclusive intellectual property of The-Ossuary.
 
-**Acquisition Opportunity:**  
-Upon sale and transfer, all rights—including copyright and trademarks—will be transferred exclusively to the buyer.  
-No other rights are granted. Use, reproduction, or distribution is prohibited without written permission from the owner.
+See [License](code/License.md) for full terms.
 
 For sale inquiries or to request access for review, contact: the.ossuary.xyz@gmail.com
-
-See [License](code/License.md) for full terms.
 
 ---
 
