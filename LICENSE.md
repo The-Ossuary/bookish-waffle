@@ -1,9 +1,11 @@
-# License
+---
 
-All code, art, lore, and documentation in this repository are the exclusive property of The Ossuary.
+# LICENSE
 
-Upon completion of sale, all intellectual property rights—including but not limited to copyright, trademarks, and distribution rights—will be transferred in full to the purchaser.
+All source code, art, lore, and documentation in this repository are the exclusive intellectual property of The Ossuary.
 
-Until such transfer occurs, no part of this project may be used, copied, or redistributed without explicit written permission from the current owner.
+**Transfer of Rights:**  
+Upon completion of sale, all intellectual property rights—including, but not limited to, copyright, trademarks, and distribution rights—will be transferred in full to the purchaser.
 
-For purchase inquiries, contact: the.ossuary.xyz@gmail.com
+**Restrictions:**  
+Until the transfer is complete, no part of this project may be used, copied, distributed, or modified without explicit written consent from ready for the next file!
