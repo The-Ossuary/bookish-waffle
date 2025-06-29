@@ -2,7 +2,7 @@
 
 # The Ossuary
 
-**The Ossuary** is a next-generation web3 game: a collaborative, occult-inspired ritual platform where players use blockchain-powered rituals to create, mutate, and interact with NFTs. Shape the living lore of a crypt-city built on sacrifice, creativity, and community storytelling—all fully on-chain.
+**The Ossuary** is a web3 game—a collaborative, occult-inspired ritual platform where players use blockchain-powered rituals to create, mutate, and interact with NFTs. Shape the living, on-chain lore of a crypt-city built on sacrifice, creativity, and community storytelling.
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## Project Overview
 
-The Ossuary is a fully on-chain, web3 game that fuses art, mythology, and blockchain technology into an evolving, decentralized legend. Players perform smart contract-powered rituals using $OSIEN tokens (ERC-20), harnessing Chainlink VRF for provable randomness, to summon unique Relic NFTs, unlock hidden Lore Fragments, and support real artists.
+The Ossuary is a fully on-chain, web3 game blending art, mythology, and blockchain technology into an evolving, decentralized legend. Players perform smart contract-powered rituals using $OSIEN tokens (ERC-20), harnessing Chainlink VRF for provable randomness, to summon unique Relic NFTs, unlock hidden Lore Fragments, and support real artists.
 
 **Core features:**
 
@@ -34,7 +34,7 @@ The Ossuary is a fully on-chain, web3 game that fuses art, mythology, and blockc
 - **True Digital Ownership:** All items and lore exist as NFTs and metadata on-chain and IPFS.
 - **Artist-Owned Economy:** $OSIEN tokenomics reward artists and participants.
 
-This repository contains everything you need to launch, extend, or integrate The Ossuary, or to acquire and continue its development as a complete intellectual property package.
+This repository contains everything you need to launch, extend, or integrate The Ossuary, or to acquire and continue its development as a complete IP package.
 
 ---
 
@@ -61,7 +61,7 @@ This repo contains all source code, assets, and documentation you need.
 
 ## Quickstart
 
-Run and experiment with the code locally:
+You can run and experiment with the code locally:
 
 ```bash
 git clone https://github.com/The-Ossuary/bookish-waffle.git
