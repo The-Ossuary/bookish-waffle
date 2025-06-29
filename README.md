@@ -2,7 +2,7 @@
 
 # The Ossuary
 
-The Ossuary is a collaborative, occult-inspired NFT ritual platform. Perform on-chain rituals, create and mutate NFTs, and shape the living lore of a crypt-city built on sacrifice and creativity.
+**The Ossuary** is a next-generation web3 game: a collaborative, occult-inspired ritual platform where players use blockchain-powered rituals to create, mutate, and interact with NFTs. Shape the living lore of a crypt-city built on sacrifice, creativity, and community storytelling—all fully on-chain.
 
 ---
 
@@ -24,7 +24,17 @@ The Ossuary is a collaborative, occult-inspired NFT ritual platform. Perform on-
 
 ## Project Overview
 
-The Ossuary blends art, mythology, and blockchain into a living, decentralized legend. Users perform rituals using $OSIEN tokens, powered by Chainlink VRF, to summon unique Relics, unlock hidden Lore Fragments, and support real artists. The project features mutable NFTs, community-driven lore, and a true artist-owned economy.
+The Ossuary is a fully on-chain, web3 game that fuses art, mythology, and blockchain technology into an evolving, decentralized legend. Players perform smart contract-powered rituals using $OSIEN tokens (ERC-20), harnessing Chainlink VRF for provable randomness, to summon unique Relic NFTs, unlock hidden Lore Fragments, and support real artists.
+
+**Core features:**
+
+- **Web3 Game Mechanics:** Every player action is an on-chain ritual that creates, mutates, or destroys NFTs.
+- **Mutable, Programmable NFTs:** Artifacts that change and grow based on player interactions.
+- **Community-Driven Lore:** The story and world evolve through player choices and contributions.
+- **True Digital Ownership:** All items and lore exist as NFTs and metadata on-chain and IPFS.
+- **Artist-Owned Economy:** $OSIEN tokenomics reward artists and participants.
+
+This repository contains everything you need to launch, extend, or integrate The Ossuary, or to acquire and continue its development as a complete intellectual property package.
 
 ---
 
@@ -32,15 +42,14 @@ The Ossuary blends art, mythology, and blockchain into a living, decentralized l
 
 🚧 **The Ossuary is not yet live or deployed to mainnet.**
 
-However, all intellectual property—including code, lore, and design—is complete and available for:
+All intellectual property—including code, lore, and design—is complete and available for:
 
-- **Acquisition** (buy the full IP, codebase, lore)
-- **Partnership** (collaborate on launch, marketing, or integration)
-- **Further Development** (devs wanted for deployment and demo!)
+- **Acquisition:** Buy the full IP, codebase, and lore.
+- **Partnership:** Collaborate on launch, marketing, or integration.
+- **Further Development:** Developers wanted for deployment and demo!
 
-**No contracts are currently deployed or live.**  
-**No frontend is live.**  
-This repo contains all source code, assets, and documentation you need to launch, extend, or integrate The Ossuary.
+**No contracts or frontend are currently live.**  
+This repo contains all source code, assets, and documentation you need.
 
 ---
 
@@ -52,7 +61,7 @@ This repo contains all source code, assets, and documentation you need to launch
 
 ## Quickstart
 
-You can run and experiment with the code locally. To get started:
+Run and experiment with the code locally:
 
 ```bash
 git clone https://github.com/The-Ossuary/bookish-waffle.git
