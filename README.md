@@ -121,7 +121,7 @@ See: [CONTRIBUTING.md](https://github.com/The-Ossuary/bookish-waffle/blob/main/C
 
 All code, lore, documentation, and creative materials in this repository are the exclusive intellectual property of The-Ossuary.
 
-See [License.md](code/License.md)in code folder on main for full terms. 
+See [License.md](code/License.md) in code folder on main for full terms. 
 
 For sale inquiries or to request access for review, contact: the.ossuary.xyz@gmail.com
 
