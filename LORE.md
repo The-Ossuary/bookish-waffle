@@ -1,4 +1,7 @@
+---
 THE OSSUARY
+
+
 The Ossuary is a forsaken crypt-city carved from the bones of dead titans. Its spires pierce an ash-choked sky. The ground itself is a reliquary for the unquiet dead.
 
 Once a place of exile and execution, it has become a haven for cultists, artists, and exiles seeking forbidden knowledge and transformation.
@@ -47,19 +50,27 @@ Gaining power is not enough. You must survive deadly Trials—combat in the Bone
 
 Faction alliances shift. Betrayal is common. Seasonally, Faction Wars erupt, redrawing the map of the city in blood.
 
+---
 THE CARRION CHOIR
+
 Failure in the Ritual Engine can corrupt your Relic into a grotesque mockery. Worse, it can attract the Carrion Choir—the collective of the unquiet dead who wander the catacombs singing for new voices.
 
 Players may fear them—or seek them deliberately for unholy boons.
 
+---
+
 USER-GENERATED ART
+
 The Ossuary thrives on creativity. Players can add their own art, music, writing, or design layers to Relics.
 
 Each new layer can be minted, sold, or evolved, creating a living economy of collaborative creation.
 
 Creators earn royalties each time their work is used or traded, forging a true artist-driven marketplace.
 
+---
+
 THE FINAL REVELATION
+
 Deep beneath the catacombs lies the Black Sigil, a perfect circle of code and bone.
 
 Those who reach it learn the final truth:
