@@ -153,3 +153,6 @@ const Joi = require('joi');
 exports.ritualSchema = Joi.object({
   walletAddress: Joi.string().min(6).required(),
 });
+
+PORT=3001
+ALLOWED_ORIGINS=http://localhost:3000
