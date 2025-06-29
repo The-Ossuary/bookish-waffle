@@ -1,1 +1,9 @@
-kjj
+Copyright (c) 2025 The-Ossuary
+
+All rights reserved.
+
+This repository and all its contents—including code, lore, documentation, and creative materials—are the exclusive intellectual property of The-Ossuary (https://github.com/The-Ossuary).
+
+Upon completion of sale and transfer, all rights, including copyright and any associated trademarks, will be transferred exclusively to the buyer. The buyer’s details will be added here upon sale.
+
+Until that time, no rights are granted. Use, reproduction, or distribution is prohibited without written permission from the owner.
