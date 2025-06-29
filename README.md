@@ -144,3 +144,9 @@ Thanks to all early contributors, artists, and lore creators!
 
 ---
 
+**The license link above goes directly to:**  
+`https://github.com/The-Ossuary/bookish-waffle/blob/main/code/License.md`  
+and will work for every user, every time.
+
+---
+
