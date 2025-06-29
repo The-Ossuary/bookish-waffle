@@ -1,5 +1,3 @@
-
-
 const express = require('express');
 const { performRitual } = require('../controllers/ritualController');
 const validateRequest = require('../middleware/validateRequest');
