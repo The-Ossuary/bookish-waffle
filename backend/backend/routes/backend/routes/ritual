@@ -1,0 +1,12 @@
+// File: backend/routes/ritual.js
+
+const express = require('express');
+const { performRitual } = require('../controllers/ritualController');
+const validateRequest = require('../middleware/validateRequest');
+const { ritualSchema } = require('../validators/ritual');
+
+const router = express.Router();
+
+router.post('/', validateRequest(ritualSchema), performRitual);
+
+module.exports = router;
