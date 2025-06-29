@@ -1,10 +1,3 @@
-Understood.  
-Here’s the **guaranteed, copy-paste README** section that will ALWAYS work—using the **full, direct GitHub URL** to your license file:
-
-
-
----
-
 ---
 
 # The Ossuary
