@@ -173,4 +173,3 @@ Thanks to all early contributors, artists, and lore creators!
 
 ---
 
-**Let me know if you need further changes or a more minimal version!**
