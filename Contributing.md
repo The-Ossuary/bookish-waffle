@@ -81,4 +81,3 @@ Credit is always given; include your preferred handle in PRs.
 
 ---
 
-Let me know if you want to add specific coding standards, royalty details, or have a different Discord invite to include!
