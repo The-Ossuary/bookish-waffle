@@ -1,9 +1,8 @@
-
 ---
 
 # The Ossuary
 
-**The Ossuary** is an experimental Web3 game built on Ethereum. Enter a collaborative, occult-inspired ritual platform where every on-chain action is a “ritual” that creates, mutates, or destroys NFTs. Shape the living lore of a crypt-city—with art, sacrifice, and creativity—using smart contracts and $OSIEN tokens.
+**The Ossuary** is an experimental Web3 game—a collaborative, occult-inspired ritual platform where every on-chain action is a ritual that creates, mutates, or destroys NFTs. Shape the evolving lore of a crypt-city through art, sacrifice, and creativity using smart contracts and $OSIEN tokens.
 
 ---
 
