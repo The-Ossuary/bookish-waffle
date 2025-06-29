@@ -165,16 +165,7 @@ Thanks to all early contributors, artists, and lore creators!
 
 ---
 
-**Replace placeholder links and addresses before publishing.  
-Your project is IP-complete and ready for handoff, extension, or partnership.  
-If you want further tweaks, just ask!**
 
----
 
-**Corrections Applied:**
-- Fork step clarified for repo owners (owners cannot fork their own repo).
-- Art section updated to clearly state no art is included yet.
-- Screenshots section does not show missing images.
-- Added direct and working link to your [CONTRIBUTING.md](https://github.com/The-Ossuary/bookish-waffle/blob/main/Contributing.md).
-- Language and details aligned with your actual Contributing.md and repo status.
+
 
