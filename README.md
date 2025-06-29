@@ -2,7 +2,7 @@
 
 # The Ossuary
 
-*The Ossuary is a collaborative, occult-inspired NFT ritual platform. Perform on-chain rituals, create and mutate NFTs, and shape the living lore of a crypt-city built on sacrifice and creativity.*
+The Ossuary is a collaborative, occult-inspired NFT ritual platform. Perform on-chain rituals, create and mutate NFTs, and shape the living lore of a crypt-city built on sacrifice and creativity.
 
 ---
 
@@ -146,7 +146,7 @@ No other rights are granted. Use, reproduction, or distribution is prohibited wi
 
 For sale inquiries or to request access for review, contact: the.ossuary.xyz@gmail.com
 
-See [License](License.md) for full terms.
+See [License](code/License.md) for full terms.
 
 ---
 
@@ -169,9 +169,8 @@ Thanks to all early contributors, artists, and lore creators!
 
 ---
 
-> *“The Ossuary is a world that feeds on sacrifice, rewards creativity, and punishes complacency. Every Relic is unique. Every player leaves a scar. The Ritual is forever.”*
+> “The Ossuary is a world that feeds on sacrifice, rewards creativity, and punishes complacency. Every Relic is unique. Every player leaves a scar. The Ritual is forever.”
 
 ---
 
-**Replace placeholder links and addresses before publishing.  
-Let me know if you want a more condensed version or wish to revise sections!**
+**Let me know if you need further changes or a more minimal version!**
