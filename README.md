@@ -28,7 +28,7 @@ The Ossuary is a web3 game of collaborative ritual, evolving NFTs, and community
 
 ## Status & Opportunity
 
-🚧 **The Ossuary is not yet live or deployed to mainnet.**
+ **The Ossuary is not yet live or deployed to mainnet.**
 
 All intellectual property—including code, lore, and design—is available for:
 
