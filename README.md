@@ -2,7 +2,7 @@
 
 # The Ossuary
 
-The Ossuary is a Web3 game of rituals, evolving NFTs, and collaborative storytelling. Players use smart contracts, $OSIEN tokens, and on-chain randomness to co-create, mutate, and destroy NFTs—shaping the crypt-city’s lore together.
+The Ossuary is a web3 game of collaborative ritual, evolving NFTs, and community-driven lore. Players perform on-chain rituals using smart contracts, $OSIEN tokens, and Chainlink VRF randomness to create, mutate, and destroy NFTs, shaping the crypt-city’s story together.
 
 ---
 
@@ -24,25 +24,25 @@ The Ossuary is a Web3 game of rituals, evolving NFTs, and collaborative storytel
 
 ## Project Overview
 
-- **On-chain rituals:** Gameplay is driven by smart contracts that create, mutate, or destroy NFTs.
-- **Dynamic NFTs:** All items and lore fragments evolve with player actions.
-- **Community worldbuilding:** Player choices expand and reshape the crypt-city’s story.
-- **True ownership:** All assets are NFTs on Ethereum and stored in IPFS.
-- **Creative economy:** The $OSIEN token rewards artists and participants.
+- **On-chain Rituals:** All gameplay actions are on-chain smart contracts that create, mutate, or destroy NFTs.
+- **Dynamic NFTs:** Items and lore fragments evolve with community participation.
+- **Community Worldbuilding:** Player choices expand and reshape the crypt-city’s story.
+- **True Ownership:** All assets are NFTs on Ethereum and stored on IPFS.
+- **Creative Economy:** The $OSIEN token rewards artists and active players.
 
 ---
 
 ## Status & Opportunity
 
-🚧 The Ossuary is not yet live or deployed to mainnet.
+🚧 **The Ossuary is not yet live or deployed to mainnet.**
 
-All intellectual property—including code, lore, and design—is complete and available for:
+All intellectual property—including code, lore, and design—is available for:
 
-- Acquisition: Buy the full IP, codebase, and lore.
-- Partnership: Collaborate on launch, marketing, or integration.
-- Further Development: Developers wanted for deployment and demo!
+- **Acquisition:** Buy the full IP, codebase, and lore.
+- **Partnership:** Collaborate on launch, marketing, or integration.
+- **Further Development:** Developers wanted for deployment and demo!
 
-No contracts or frontend are currently live.  
+No smart contracts or frontend are currently live.  
 This repo contains all source code, assets, and documentation.
 
 ---
@@ -80,7 +80,7 @@ npm install
 node app.js
 ```
 
-- Create `.env` files in `/backend` and `/ossuary-frontend` with your keys and endpoints (see sample `.env.example`).
+Create `.env` files in `/backend` and `/ossuary-frontend` with your keys and endpoints (see sample `.env.example`).
 
 ---
 
@@ -169,4 +169,3 @@ Thanks to all early contributors, artists, and lore creators!
 > “The Ossuary is a world that feeds on sacrifice, rewards creativity, and punishes complacency. Every Relic is unique. Every player leaves a scar. The Ritual is forever.”
 
 ---
-
