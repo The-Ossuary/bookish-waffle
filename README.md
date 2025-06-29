@@ -1,7 +1,6 @@
-
 ---
 
-# The Ossuary
+# 🦴 The Ossuary
 
 *The Ossuary is a collaborative, occult-inspired NFT ritual platform. Perform on-chain rituals, create and mutate NFTs, and shape the living lore of a crypt-city built on sacrifice and creativity.*
 
@@ -17,8 +16,8 @@
 - [What's Included](#whats-included)
 - [API Usage Examples](#api-usage-examples)
 - [Contributing](#contributing)
+- [License & Intellectual Property](#license--intellectual-property)
 - [Community & Contact](#community--contact)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ---
@@ -136,6 +135,20 @@ See the full contributing guide here:
 
 ---
 
+## License & Intellectual Property
+
+All code, lore, documentation, and creative materials in this repository are the exclusive intellectual property of The-Ossuary.
+
+**Acquisition Opportunity:**  
+Upon completion of sale and transfer, all rights—including copyright and any associated trademarks—will be transferred exclusively to the buyer.  
+No other rights are granted. Use, reproduction, or distribution is prohibited without written permission from the owner.
+
+For sale inquiries or to request access for review, contact: the.ossuary.xyz@gmail.com
+
+See [License](https://github.com/The-Ossuary/bookish-waffle/blob/main/code/License) for full terms.
+
+---
+
 ## Community & Contact
 
 - **Email:** the.ossuary.xyz@gmail.com
@@ -145,12 +158,6 @@ See the full contributing guide here:
 For acquisition, licensing, or partnership inquiries, contact:  
 Obsen, God of Obscenity  
 the.ossuary.xyz@gmail.com
-
----
-
-## License
-
-MIT License. See [LICENSE](./LICENSE).
 
 ---
 
@@ -164,18 +171,4 @@ Thanks to all early contributors, artists, and lore creators!
 > *“The Ossuary is a world that feeds on sacrifice, rewards creativity, and punishes complacency. Every Relic is unique. Every player leaves a scar. The Ritual is forever.”*
 
 ---
-
-## License & Intellectual Property
-
-All code, lore, documentation, and creative materials in this repository are the exclusive intellectual property of The-Ossuary.
-
-**Acquisition Opportunity:**  
-Upon completion of sale and transfer, all rights—including copyright and any associated trademarks—will be transferred exclusively to the buyer.  
-No other rights are granted. Use, reproduction, or distribution is prohibited without written permission from the owner.
-
-For sale inquiries or to request access for review, contact: the.ossuary.xyz@gmail.com
-
-See [LICENSE](./LICENSE) for full terms.
-
-
 
