@@ -1,1 +1,2 @@
-jkj
+PORT=3001
+ALLOWED_ORIGINS=http://localhost:3000
