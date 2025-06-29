@@ -20,7 +20,7 @@ The Ossuary is a horror-themed Web3 prototype for collectible lore and ritual ga
 
 - **Price:** $2,000–$8,000 (negotiable)
 - **Includes:** All code, art files, lore, and full IP rights
-- **No active revenue, userbase, or liabilities
+- **No active revenue, userbase, or liabilities**
 - **Intended buyer:** Indie dev, Web3/NFT project, or game studio
 
 Contact: the.ossuary.xyz@gmail.com or [@TheOssuaryCrypt](https://twitter.com/TheOssuaryCrypt)
@@ -76,4 +76,3 @@ All code, art, and lore are the exclusive property of The Ossuary and will be tr
 - Twitter: [@TheOssuaryCrypt](https://twitter.com/TheOssuaryCrypt)
 
 ---
-
