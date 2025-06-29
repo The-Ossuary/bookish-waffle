@@ -1,4 +1,5 @@
 
+
 ---
 
 # The Ossuary
@@ -88,7 +89,7 @@ node app.js
 - **Frontend:** *Coming soon*
 - **Main Ritual Engine Contract:** [`0xYourContractAddress`](https://polygonscan.com/address/0xYourContractAddress)
 - **$OSIEN Token:** [`0xYourTokenAddress`](https://polygonscan.com/address/0xYourTokenAddress)
-- **Marketplace:** [OpenSea Collection](https://opensea.io/collection/ossuary)
+- **Marketplace:** *Coming soon*
 
 ---
 
@@ -171,4 +172,3 @@ Thanks to all early contributors, artists, and lore creators!
 > *“The Ossuary is a world that feeds on sacrifice, rewards creativity, and punishes complacency. Every Relic is unique. Every player leaves a scar. The Ritual is forever.”*
 
 ---
-
