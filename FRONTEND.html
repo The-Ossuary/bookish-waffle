@@ -27,51 +27,39 @@
       margin-bottom: 0.2em;
       text-align: center;
     }
+    h2 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-top: 2em;
+      margin-bottom: 0.5em;
+      color: #a3e635;
+    }
     .subtitle {
       color: #a3a3a3;
       text-align: center;
       margin-bottom: 1.5em;
     }
-    button {
-      background: #27272a;
-      color: #e5e7eb;
+    hr {
       border: none;
-      padding: 0.75em 2em;
-      border-radius: 8px;
-      font-size: 1.1em;
-      font-weight: 600;
-      cursor: pointer;
-      margin: 0 auto 2em auto;
-      display: block;
-      transition: background 0.2s;
+      border-top: 2px solid #27272a;
+      margin: 2em 0;
     }
-    button:hover {
-      background: #52525b;
+    ul {
+      margin: 1em 0 1em 2em;
+      padding: 0;
     }
-    #wallet-address {
-      text-align: center;
-      color: #a3e635;
-      font-weight: bold;
-      margin-bottom: 1.5em;
-      word-break: break-all;
+    li {
+      margin-bottom: 0.5em;
+      line-height: 1.6;
     }
-    pre, code {
-      background: #18181b;
-      color: #a3e635;
-      padding: 0.2em 0.4em;
-      border-radius: 4px;
-      font-family: 'Fira Mono', monospace;
-      font-size: 1em;
-    }
-    #lore {
-      white-space: pre-wrap;
+    p {
+      margin: 1em 0;
       line-height: 1.7;
-      margin-top: 2em;
-      font-size: 1.1em;
     }
     @media (max-width: 600px) {
       .container { padding: 8px; }
       h1 { font-size: 2em; }
+      h2 { font-size: 1.2em; }
     }
   </style>
 </head>
@@ -79,44 +67,37 @@
   <div class="container">
     <h1>THE OSSUARY</h1>
     <div class="subtitle">Crypt-City of Art, Sacrifice, and Secrecy</div>
-    <button id="connect-btn">Connect Wallet</button>
-    <div id="wallet-address"></div>
-    <div id="lore">Loading lore...</div>
+    
+    <p>The Ossuary is a forsaken crypt-city carved from the bones of dead titans. Its spires pierce an ash-choked sky. The ground itself is a reliquary for the unquiet dead.</p>
+    <p>Once a place of exile and execution, it has become a haven for cultists, artists, and exiles seeking forbidden knowledge and transformation.</p>
+    <p>Here, power is won not through conquest alone, but through sacrifice and creativity.</p>
+    <hr />
+    <h2>THE SILENT GODS</h2>
+    <p>The old gods of light and order are dead. The Ossuary is ruled by the Silent Gods, who demand art, blood, and secrets instead of prayer.</p>
+    <ul>
+      <li><b>Obsen:</b> The god of unspeakable knowledge. His temples are covered in layered graffiti no one can fully decipher. His followers tattoo secrets on their tongues to ensure silence.</li>
+      <li><b>Vryn:</b> Embodiment of madness. His cathedrals defy geometry. Dreams and waking life blur among his followers.</li>
+      <li><b>The Hollow King:</b> Monarch of the dead. His throne is built of skulls. His priests enforce order through necromancy and fear.</li>
+      <li><b>Mother With No Face:</b> Patron of artists and liars. She grants visions in exchange for your true identity.</li>
+      <li><b>The Carrion Choir:</b> The collective of the unquiet dead. Their song echoes through the catacombs, calling the lost to join them.</li>
+    </ul>
+    <hr />
+    <h2>THE RITUAL ENGINE</h2>
+    <p>At the heart of the Ossuary lies the Ritual Engine, a vast biomechanical altar that feeds on sacrifice.</p>
+    <p>Relics—blank totems of obsidian—are placed upon the Engine and offered sacrifices: blood, art, memories, secrets.</p>
+    <p>In return, the Engine reshapes them, creating mutable NFTs with unique traits and appearances.</p>
+    <p>But the Ritual always takes something in return. Users risk corruption, failure, or worse—attracting the Carrion Choir.</p>
+    <hr />
+    <h2>FACTIONS</h2>
+    <p>No one survives alone in the Ossuary. The city is carved into districts controlled by rival factions:</p>
+    <ul>
+      <li><b>The Bonewrights:</b> Builders and sculptors who see the city itself as a living artwork of bone and iron.</li>
+      <li><b>The Veilbound:</b> Scholars and sorcerers who hoard forbidden knowledge and experiment with the Ritual Engine.</li>
+      <li><b>The Ash Tongue:</b> Fanatical iconoclasts who want to burn the old world and cleanse the Ossuary through fire.</li>
+      <li><b>The Carrion Syndicate:</b> Smugglers and black-market dealers in relics, mutations, and Ritual services.</li>
+      <li><b>The Choir of Glass:</b> Fanatical enforcers who serve the Hollow King, maintaining the undead order of the crypt-city.</li>
+      <li><b>Cult of Obsen:</b> Prophets and interpreters who claim to speak the AI’s broken prophecies.</li>
+    </ul>
   </div>
-  <script>
-    // Wallet connect logic (MetaMask)
-    const connectBtn = document.getElementById('connect-btn');
-    const addressDiv = document.getElementById('wallet-address');
-    connectBtn.onclick = async () => {
-      if (window.ethereum) {
-        try {
-          const accounts = await window.ethereum.request({ method: 'eth_requestAccounts' });
-          addressDiv.textContent = 'Connected: ' + accounts[0];
-        } catch (err) {
-          addressDiv.textContent = 'Wallet connection rejected.';
-        }
-      } else {
-        addressDiv.textContent = 'MetaMask not detected. Install it: https://metamask.io/';
-      }
-    };
-
-    // Minimal markdown rendering for lore
-    function renderMarkdown(md) {
-      // Only basic formatting for bold, italic, headings, lists, code
-      let html = md
-        .replace(/^### (.*$)/gim, '<h3>$1</h3>')
-        .replace(/^## (.*$)/gim, '<h2>$1</h2>')
-        .replace(/^# (.*$)/gim, '<h1>$1</h1>')
-        .replace(/\*\*(.*?)\*\*/gim, '<b>$1</b>')
-        .replace(/\*(.*?)\*/gim, '<i>$1</i>')
-        .replace(/`(.*?)`/gim, '<code>$1</code>')
-        .replace(/^\s*[-*] (.*)/gim, '<li>$1</li>')
-        .replace(/\n{2,}/g, '</p><p>')
-        .replace(/\n/g, '<br>');
-      // Wrap all in a paragraph unless it's already a block
-      html = '<p>' + html + '</p>';
-      // Unwrap list items
-      html = html.replace(/(<
-
-
-
+</body>
+</html>
