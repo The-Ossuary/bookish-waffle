@@ -38,4 +38,4 @@ No one survives alone in the Ossuary. The city is carved into districts controll
 
 - **The Bonewrights:** Builders and sculptors who see the city itself as a living artwork of bone and iron.
 - **The Veilbound:** Scholars and sorcerers who hoard forbidden knowledge and experiment with the Ritual Engine.
-- **The Ash Tongue:** Fanatical iconoclasts who want to burn the old world and
+- **The Ash Tongue:** Fanatical iconoclasts who want to burn the old world.
