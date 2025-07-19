@@ -1,4 +1,4 @@
- THE OSSUARY
+ ## THE OSSUARY
 
 **The Ossuary** is a forsaken crypt-city carved from the bones of dead titans. Its spires pierce an ash-choked sky. The ground itself is a reliquary for the unquiet dead.
 
