@@ -87,7 +87,7 @@ Players may fear them—or seek them deliberately for **unholy boons**.
 
 ---
 
-## 🎨 USER-GENERATED ART
+##  USER-GENERATED ART
 
 The Ossuary thrives on **creativity**. Players can add their own **art, music, writing, or design layers** to Relics.
 
