@@ -1,4 +1,4 @@
-# 🜏 THE OSSUARY
+ THE OSSUARY
 
 **The Ossuary** is a forsaken crypt-city carved from the bones of dead titans. Its spires pierce an ash-choked sky. The ground itself is a reliquary for the unquiet dead.
 
@@ -8,7 +8,7 @@ Here, power is won not through conquest alone, but through sacrifice and creativ
 
 ---
 
-## 🕯️ THE SILENT GODS
+## THE SILENT GODS
 
 The old gods of light and order are dead. The Ossuary is ruled by the **Silent Gods**, who demand art, blood, and secrets instead of prayer.
 
@@ -34,7 +34,7 @@ The old gods of light and order are dead. The Ossuary is ruled by the **Silent G
 
 ---
 
-## 🔧 THE RITUAL ENGINE
+##  THE RITUAL ENGINE
 
 At the heart of the Ossuary lies the **Ritual Engine**, a vast biomechanical altar that feeds on sacrifice.
 
@@ -47,7 +47,7 @@ In return, the Engine reshapes them, creating **mutable NFTs** with unique trait
 
 ---
 
-## ⚔️ FACTIONS
+##  FACTIONS
 
 No one survives alone in the Ossuary. The city is carved into districts controlled by rival factions:
 
@@ -71,7 +71,7 @@ No one survives alone in the Ossuary. The city is carved into districts controll
 
 ---
 
-## 🩸 TRIALS AND BETRAYAL
+##  TRIALS AND BETRAYAL
 
 Gaining power is not enough. You must survive deadly **Trials**—combat in the Bone Pits, labyrinth puzzles, duels of secrets and blackmail.
 
@@ -79,7 +79,7 @@ Faction alliances shift. Betrayal is common. Seasonally, **Faction Wars** erupt,
 
 ---
 
-## 🕯️ THE CARRION CHOIR
+##  THE CARRION CHOIR
 
 Failure in the Ritual Engine can **corrupt your Relic** into a grotesque mockery. Worse, it can attract the **Carrion Choir**—the collective of the unquiet dead who wander the catacombs singing for new voices.
 
@@ -97,7 +97,7 @@ Creators earn **royalties** each time their work is used or traded, forging a **
 
 ---
 
-## 🜃 THE FINAL REVELATION
+##  THE FINAL REVELATION
 
 Deep beneath the catacombs lies the **Black Sigil**, a perfect circle of code and bone.
 
