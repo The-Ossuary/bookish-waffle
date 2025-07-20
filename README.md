@@ -70,8 +70,8 @@ All code and lore are the exclusive property of The Ossuary and will be transfer
 
 ## Contact
 
-- Email: the.ossuary.xyz@gmail.com
-- Twitter: [@TheOssuaryCrypt](https://twitter.com/TheOssuaryCrypt)
+- Email: obsen.the.creator@gmail.com
+- Twitter: [https://x.com/ObsenTheCreator?t=2r1Ur11O0k2XjuQu1UYNfA&s=09)
 
 ---
 
